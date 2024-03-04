@@ -1,5 +1,9 @@
 # pizza-client
 
+To use Pizza Client, install this loader and put it into your .minecraft/mods folder. Forge 1.8.9 must be installed for it to work. The loader automatically updates Pizza Client. You will get a pop-up whenever an update happens.
+
+This loader works for both premium and for free version. If you have bought premium, simply type /pizza reload ingame or relog and you'll automatically get the premium version.
+
 # changelog
 
 ## Pizza Client 2.1 is out!
@@ -56,3 +60,21 @@ Funny Velocity should work better now
 
 Bug Fixes:
 Fixed outline esp looking weird for some people (if it still
+
+# known-bugs!
+Features that ban (watchdog):
+Fastbreak
+autoterms
+
+
+Features with Frequent Staff Bans:
+Mithril Macro
+
+Bugged features:
+Fairy Grotto Scanner (it detects nucleus as a fairy grotto, if u dont want it to happen stay away from nucleus until i fix)
+auto terminals "on hover" not working on the 3x3 color terminal
+PowderMacro crashes if a chest spawns in u and doesnt work with Oringo
+no carpet lags you back
+dojo mastery crashes u
+farming macros are broken(not updated for garden)
+foraging macro
